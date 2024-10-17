@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+<img width="1148" alt="Nypthoria image" src="https://github.com/user-attachments/assets/5045a7a8-1adc-4c9e-9ca7-35573b448cbf">
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
